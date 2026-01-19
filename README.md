@@ -1,5 +1,4 @@
-# bukitsempuu
-Website Tiket Masuk dan Pemesanan secara online 
+
 <!DOCTYPE html>
 <html lang="id">
 <head>
